@@ -88,7 +88,7 @@ a {
   height: 1200px;
 }
 
-h1 {
+.h1 {
   text-align: center;
   margin: 0;
   font-family: "Patrick Hand", cursive;
@@ -97,7 +97,7 @@ h1 {
   font-size: 150px;
 }
 
-h3 {
+.h3 {
   text-align: center;
   margin: 0;
   font-family: "Patrick Hand", cursive;
@@ -106,7 +106,7 @@ h3 {
   font-size: 100px;
 }
 
-p1 {
+.p1 {
   font-size: 300px;
   font-family: "Patrick Hand", cursive;
   -webkit-text-stroke: 5px rgba(9, 9, 121, 1);
@@ -117,14 +117,14 @@ p1 {
   top: 325px;
 }
 
-p2 {
+.p2 {
   font-family: "Patrick Hand", cursive;
   text-align: center;
   color: rgb(255, 255, 255);
   font-size: 60px;
 }
 
-p3 {
+.p3 {
   font-family: "Patrick Hand", cursive;
   text-align: center;
   color: rgb(255, 255, 255);
